@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: docs-test
+  annotations:
+    github.com/project-slug: edubacco/docs-test
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
